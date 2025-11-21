@@ -2,6 +2,9 @@
 # Compiler + Interpreter (DSL → ISA → Execution)
 
 
+(DSL- Domain Specific Language)
+
+
 This repository contains a complete toolchain:
 
 
