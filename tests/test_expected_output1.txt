@@ -1,0 +1,5 @@
+LOAD executed
+BIAS executed
+WEIGHTS executed
+STORE executed
+LDSTORE executed
