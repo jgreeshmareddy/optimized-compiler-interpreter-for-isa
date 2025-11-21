@@ -1,0 +1,17 @@
+.data
+  _layer_1_weights, _layer_1_bias tensor [1,2,3,4]
+
+
+.declarations
+  x, y, z tensor 4096
+
+
+.linear
+  load x
+  bias _layer_1_bias
+  weights _layer_1_weights
+  store y
+
+
+.relu
+  ldstore y, z
